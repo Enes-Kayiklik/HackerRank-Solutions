@@ -22,3 +22,4 @@
 |-----|----------------|----------|-----------------|
 |  0  |Angry Professor  |[Solution](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/AngryProfessor.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/angry-professor/problem)|
 |  1  |The Hurdle Race |[Solution](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/TheHurdleRace.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|
+|  2  |Viral Advertising |[Solution](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/ViralAdvertising.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/strange-advertising/problem)|
