@@ -5,8 +5,19 @@
     <br>Solutions of HackerRank problems
 </p>
 
-- [x] Angry Professor  [Solution](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/AngryProfessor.kt) and [HackerRank Link](https://www.hackerrank.com/challenges/angry-professor/problem)
+## 30 Days of Code
+| Day | Challange Name | Solution | HackerRank Link |
+|-----|----------------|----------|-----------------|
+|  0  |Hello, World. |[Solution](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/thirtydayofcode/HelloWorld.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/30-hello-world/problem)|
 
-- [x] Leonardo's Prime Factors  [Solution](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/mathematics/LeonardsPrimeFactor.kt) and [HackerRank Link](https://www.hackerrank.com/challenges/leonardo-and-prime/problem)
 
-- [x] Hello, World.  [Solution](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/thirtydayofcode/HelloWorld.kt) and [HackerRank Link](https://www.hackerrank.com/challenges/30-hello-world/problem)
+## Mathematics
+| Count | Challange Name | Solution | HackerRank Link |
+|-----|----------------|----------|-----------------|
+|  0  |Leonardo's Prime Factors |[Solution](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/mathematics/LeonardsPrimeFactor.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/leonardo-and-prime/problem)|
+
+
+## Problem Solving
+| Count | Challange Name | Solution | HackerRank Link |
+|-----|----------------|----------|-----------------|
+|  0  |Angry Professor  |[Solution](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/AngryProfessor.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/angry-professor/problem)|
