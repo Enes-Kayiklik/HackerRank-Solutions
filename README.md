@@ -15,6 +15,7 @@
 | Count | Challange Name | Solution | HackerRank Link |
 |-----|----------------|----------|-----------------|
 |  0  |Leonardo's Prime Factors |[Solution](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/mathematics/LeonardsPrimeFactor.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/leonardo-and-prime/problem)|
+|  1  |Restaurant |[Solution](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/mathematics/Restaurant.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/restaurant/problem)|
 
 
 ## Problem Solving
