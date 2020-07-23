@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://www.hackerrank.com/eneskayiklik">
-        <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+        <img height=85 src="https://hrcdn.net/hackerrank/assets/styleguide/logo_wordmark-13074b67abceb42ce8fd38bdeaac6926.svg">
     </a>
     <br>Solutions of HackerRank problems
 </p>
@@ -21,3 +21,4 @@
 | Count | Challange Name | Solution | HackerRank Link |
 |-----|----------------|----------|-----------------|
 |  0  |Angry Professor  |[Solution](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/AngryProfessor.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/angry-professor/problem)|
+|  1  |The Hurdle Race |[Solution](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/TheHurdleRace.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|
