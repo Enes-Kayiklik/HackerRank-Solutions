@@ -11,6 +11,7 @@
 |  0  |Hello, World. |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/thirtydayofcode/HelloWorld.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/30-hello-world/problem)|
 |  1  |Data Types|[Solution.java](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/thirtydayofcode/DataTypes.java)|[HackerRank Link](https://www.hackerrank.com/challenges/30-data-types/problem)|
 |  2  |Operators|[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/thirtydayofcode/Operators.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/30-operators/problem)|
+|  3  |Intro to Conditional Statements|[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/thirtydayofcode/ConditionalStatements.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/30-conditional-statements/problem)|
 
 
 ## Mathematics
