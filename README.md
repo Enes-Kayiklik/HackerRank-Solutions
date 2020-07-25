@@ -14,7 +14,7 @@
 |  3  |Intro to Conditional Statements|[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/thirtydayofcode/ConditionalStatements.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/30-conditional-statements/problem)|
 |  4  |Class vs. Instance|[Solution.java](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/thirtydayofcode/ClassVsInstance.java)|[HackerRank Link](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)|
 |  5  |Loops|[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/thirtydayofcode/Loops.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/30-loops/problem)|
-
+|  6  |Let's Review|[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/thirtydayofcode/LetsReview.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/30-review-loop/problem)|
 
 ## Mathematics
 | Count | Challange Name | Solution | HackerRank Link |
