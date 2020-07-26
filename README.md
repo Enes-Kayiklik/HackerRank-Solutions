@@ -18,10 +18,10 @@
 |  7  |Arrays|[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/thirtydayofcode/Arrays.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/30-arrays/problem)|
 
 ## Mathematics
-| Count | Challange Name | Solution | HackerRank Link |
+| Subdomain | Challange Name | Solution | HackerRank Link |
 |-----|----------------|----------|-----------------|
-|  0  |Leonardo's Prime Factors |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/mathematics/LeonardsPrimeFactor.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/leonardo-and-prime/problem)|
-|  1  |Restaurant |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/mathematics/Restaurant.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/restaurant/problem)|
+|  Fundamentals  |Leonardo's Prime Factors |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/mathematics/LeonardsPrimeFactor.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/leonardo-and-prime/problem)|
+|  Fundamentals  |Restaurant |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/mathematics/Restaurant.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/restaurant/problem)|
 
 
 ## Problem Solving
