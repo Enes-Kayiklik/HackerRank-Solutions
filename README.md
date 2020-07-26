@@ -15,6 +15,7 @@
 |  4  |Class vs. Instance|[Solution.java](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/thirtydayofcode/ClassVsInstance.java)|[HackerRank Link](https://www.hackerrank.com/challenges/30-class-vs-instance/problem)|
 |  5  |Loops|[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/thirtydayofcode/Loops.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/30-loops/problem)|
 |  6  |Let's Review|[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/thirtydayofcode/LetsReview.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/30-review-loop/problem)|
+|  7  |Arrays|[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/thirtydayofcode/Arrays.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/30-arrays/problem)|
 
 ## Mathematics
 | Count | Challange Name | Solution | HackerRank Link |
@@ -30,3 +31,4 @@
 |  1  |The Hurdle Race |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/TheHurdleRace.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|
 |  2  |Viral Advertising |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/ViralAdvertising.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/strange-advertising/problem)|
 |  3  |Kangaroo |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/Kangaroo.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/kangaroo/problem)|
+|  4  |Apple and Orange |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/AppleAndOrange.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/apple-and-orange/problem)|
