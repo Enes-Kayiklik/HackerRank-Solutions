@@ -22,6 +22,7 @@
 |-----|----------------|----------|-----------------|
 |  Fundamentals  |Leonardo's Prime Factors |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/mathematics/LeonardsPrimeFactor.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/leonardo-and-prime/problem)|
 |  Fundamentals  |Restaurant |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/mathematics/Restaurant.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/restaurant/problem)|
+|  Fundamentals  |Connecting Towns |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/mathematics/ConnectingTowns.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/connecting-towns/problem)|
 
 
 ## Problem Solving
