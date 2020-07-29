@@ -17,6 +17,7 @@
 |  6  |Let's Review|[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/thirtydayofcode/LetsReview.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/30-review-loop/problem)|
 |  7  |Arrays|[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/thirtydayofcode/Arrays.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/30-arrays/problem)|
 |  8  |Dictionaries and Maps|[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/thirtydayofcode/DictionariesAndMaps.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem)|
+|  9  |Recursion|[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/thirtydayofcode/Recursion.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/30-recursion/problem)|
 
 ## Mathematics
 | Subdomain | Challange Name | Solution | HackerRank Link |
