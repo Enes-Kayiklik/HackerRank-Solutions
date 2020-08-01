@@ -27,7 +27,7 @@
 |  Fundamentals  |Restaurant |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/mathematics/Restaurant.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/restaurant/problem)|
 |  Fundamentals  |Connecting Towns |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/mathematics/ConnectingTowns.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/connecting-towns/problem)|
 |  Fundamentals  |Most Distant |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/mathematics/MostDistant.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/most-distant/problem)|
-
+|  Fundamentals  |Filling Jars |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/mathematics/FillingJars.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/filling-jars/problem)|
 
 ## Problem Solving
 | Count | Challange Name | Solution | HackerRank Link |
