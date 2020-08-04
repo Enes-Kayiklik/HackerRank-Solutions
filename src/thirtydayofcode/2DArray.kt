@@ -13,7 +13,6 @@ fun main() {
                     sumArr[h++] = it[i][j] + it[i][j + 1] + it[i][j + 2] +
                             it[i + 2][j + 2] +
                             it[i + 1][j + 1] + it[i + 2][j] + it[i + 2][j + 1]
-
                 }
             }
             print(sumArr.max())
