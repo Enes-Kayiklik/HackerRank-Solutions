@@ -31,10 +31,10 @@
 |  Fundamentals  |Filling Jars |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/mathematics/FillingJars.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/filling-jars/problem)|
 
 ## Problem Solving
-| Count | Challange Name | Solution | HackerRank Link |
+| Subdomain | Challange Name | Solution | HackerRank Link |
 |-----|----------------|----------|-----------------|
-|  0  |Angry Professor  |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/AngryProfessor.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/angry-professor/problem)|
-|  1  |The Hurdle Race |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/TheHurdleRace.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|
-|  2  |Viral Advertising |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/ViralAdvertising.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/strange-advertising/problem)|
-|  3  |Kangaroo |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/Kangaroo.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/kangaroo/problem)|
-|  4  |Apple and Orange |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/AppleAndOrange.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/apple-and-orange/problem)|
+|  Implementation  |Angry Professor  |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/AngryProfessor.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/angry-professor/problem)|
+|  Implementation  |The Hurdle Race |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/TheHurdleRace.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|
+|  Implementation  |Viral Advertising |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/ViralAdvertising.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/strange-advertising/problem)|
+|  Implementation  |Kangaroo |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/Kangaroo.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/kangaroo/problem)|
+|  Implementation  |Apple and Orange |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/AppleAndOrange.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/apple-and-orange/problem)|
