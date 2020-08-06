@@ -20,6 +20,7 @@
 |  9  |Recursion|[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/thirtydayofcode/Recursion.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/30-recursion/problem)|
 |  10  | Binary Numbers|[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/thirtydayofcode/BinaryNumbers.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/30-binary-numbers/problem)|
 |  11  | 2D Arrays|[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/thirtydayofcode/2DArray.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/30-2d-arrays/problem)|
+|  12  | Inheritance|[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/thirtydayofcode/Inheritance.java)|[HackerRank Link](https://www.hackerrank.com/challenges/30-inheritance/problem)|
 
 ## Mathematics
 | Subdomain | Challange Name | Solution | HackerRank Link |
