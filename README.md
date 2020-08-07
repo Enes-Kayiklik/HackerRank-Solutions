@@ -40,3 +40,4 @@
 |  Implementation  |Kangaroo |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/Kangaroo.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/kangaroo/problem)|
 |  Implementation  |Apple and Orange |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/AppleAndOrange.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/apple-and-orange/problem)|
 |  Implementation  |Migratory Birds |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/MigratoryBirds.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/migratory-birds/problem)|
+|  Implementation  |Picking Numbers |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/PickingNumbers.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/picking-numbers/problem)|
