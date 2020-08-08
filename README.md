@@ -43,3 +43,4 @@
 |  Implementation  |Picking Numbers |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/PickingNumbers.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/picking-numbers/problem)|
 |  Implementation  |Chocolate Feast |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/ChocolateFeast.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/chocolate-feast/problem)|
 |  Implementation  |Repeated String |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/RepeatedString.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/repeated-string/problem)|
+|  Implementation  |Beautiful Triplets |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/BeautifulTriplets.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/beautiful-triplets/problem)|
