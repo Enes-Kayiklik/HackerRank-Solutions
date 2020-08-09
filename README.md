@@ -20,7 +20,7 @@
 |  9  |Recursion|[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/thirtydayofcode/Recursion.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/30-recursion/problem)|
 |  10  | Binary Numbers|[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/thirtydayofcode/BinaryNumbers.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/30-binary-numbers/problem)|
 |  11  | 2D Arrays|[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/thirtydayofcode/2DArray.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/30-2d-arrays/problem)|
-|  12  | Inheritance|[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/thirtydayofcode/Inheritance.java)|[HackerRank Link](https://www.hackerrank.com/challenges/30-inheritance/problem)|
+|  12  | Inheritance|[Solution.java](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/thirtydayofcode/Inheritance.java)|[HackerRank Link](https://www.hackerrank.com/challenges/30-inheritance/problem)|
 
 ## Mathematics
 | Subdomain | Challange Name | Solution | HackerRank Link |
@@ -45,4 +45,5 @@
 |  Implementation  |Repeated String |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/RepeatedString.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/repeated-string/problem)|
 |  Implementation  |Beautiful Triplets |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/BeautifulTriplets.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/beautiful-triplets/problem)|
 |  Strings  |Pangrams |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/Pangrams.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/pangrams/problem)|
-|  Strings  |Pangrams |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/MarsExploration.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/mars-exploration/problem)|
+|  Strings  |Mars Exploration |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/MarsExploration.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/mars-exploration/problem)|
+|  Strings  |Strong Password |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/StrongPassword.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/strong-password/problem)|
