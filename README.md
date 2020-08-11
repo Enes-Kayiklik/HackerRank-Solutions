@@ -49,3 +49,4 @@
 |  Strings  |Strong Password |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/StrongPassword.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/strong-password/problem)|
 |  Strings  |The Love-Letter Mystery |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/TheLove-LetterMystery.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem)|
 |  Sorting  |Find the Median |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/FindTheMedian.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/find-the-median/problem)|
+|  Sorting  |Closest Number |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/ClosestNumbers.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/closest-numbers/problem)|
