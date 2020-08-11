@@ -29,7 +29,7 @@
 |  Fundamentals  |Restaurant |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/mathematics/fundamentals/Restaurant.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/restaurant/problem)|
 |  Fundamentals  |Connecting Towns |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/mathematics/fundamentals/ConnectingTowns.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/connecting-towns/problem)|
 |  Fundamentals  |Most Distant |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/mathematics/fundamentals/MostDistant.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/most-distant/problem)|
-|  Fundamentals  |Filling Jars |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/mathematics/FillingJars.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/filling-jars/problem)|
+|  Fundamentals  |Filling Jars |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/mathematics/fundamentals/FillingJars.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/filling-jars/problem)|
 
 ## Problem Solving
 | Subdomain | Challange Name | Solution | HackerRank Link |
@@ -39,7 +39,7 @@
 |  Implementation  |Viral Advertising |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/implementation/ViralAdvertising.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/strange-advertising/problem)|
 |  Implementation  |Kangaroo |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/implementation/Kangaroo.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/kangaroo/problem)|
 |  Implementation  |Apple and Orange |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/implementation/AppleAndOrange.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/apple-and-orange/problem)|
-|  Implementation  |Migratory Birds |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/MigratoryBirds.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/migratory-birds/problem)|
+|  Implementation  |Migratory Birds |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/implementation/MigratoryBirds.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/migratory-birds/problem)|
 |  Implementation  |Picking Numbers |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/implementation/PickingNumbers.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/picking-numbers/problem)|
 |  Implementation  |Chocolate Feast |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/implementation/ChocolateFeast.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/chocolate-feast/problem)|
 |  Implementation  |Repeated String |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/implementation/RepeatedString.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/repeated-string/problem)|
