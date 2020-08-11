@@ -1,4 +1,4 @@
-package problemsolving
+package problemsolving.strings
 
 import java.util.*
 import kotlin.math.abs
