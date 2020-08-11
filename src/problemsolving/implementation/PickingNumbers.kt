@@ -1,4 +1,4 @@
-package problemsolving
+package problemsolving.implementation
 
 import java.lang.Integer.max
 import java.util.*

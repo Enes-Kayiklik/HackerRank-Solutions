@@ -1,4 +1,4 @@
-package problemsolving
+package problemsolving.sorting
 
 import java.util.*
 

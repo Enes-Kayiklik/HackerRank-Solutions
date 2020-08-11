@@ -1,4 +1,4 @@
-package problemsolving
+package problemsolving.implementation
 
 import java.util.*
 import kotlin.math.floor

@@ -1,4 +1,4 @@
-package mathematics
+package mathematics.fundamentals
 
 import java.util.*
 import kotlin.math.abs
