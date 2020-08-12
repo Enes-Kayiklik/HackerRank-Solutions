@@ -52,3 +52,4 @@
 |  Sorting  |Find the Median |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/sorting/FindTheMedian.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/find-the-median/problem)|
 |  Sorting  |Closest Number |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/sorting/ClosestNumbers.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/closest-numbers/problem)|
 |  Search  |Missing Numbers |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/search/MissingNumbers.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/missing-numbers/problem)|
+|  Search  |Sherlock and Array |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/search/SherlockandArray.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/sherlock-and-array/problem)|
