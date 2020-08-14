@@ -35,6 +35,7 @@
 ## Problem Solving
 | Subdomain | Challange Name | Solution | HackerRank Link |
 |-----|----------------|----------|-----------------|
+|  Implementation  |Counting Valleys  |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/implementation/CountingValleys.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/counting-valleys/problem)|
 |  Implementation  |Angry Professor  |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/implementation/AngryProfessor.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/angry-professor/problem)|
 |  Implementation  |The Hurdle Race |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/implementation/TheHurdleRace.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|
 |  Implementation  |Viral Advertising |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/implementation/ViralAdvertising.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/strange-advertising/problem)|
