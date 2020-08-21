@@ -23,6 +23,7 @@
 |  12  | Inheritance|[Solution.java](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/thirtydayofcode/Inheritance.java)|[HackerRank Link](https://www.hackerrank.com/challenges/30-inheritance/problem)|
 |  20  | Sorting|[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/thirtydayofcode/Sorting.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/30-sorting/problem)|
 |  26  | Nested Logic|[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/thirtydayofcode/NestedLogic.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/30-nested-logic/problem)|
+|  29  | Bitwise AND|[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/thirtydayofcode/Bitwise%20AND.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/30-bitwise-and/problem)|
 
 ## Mathematics
 | Subdomain | Challange Name | Solution | HackerRank Link |
