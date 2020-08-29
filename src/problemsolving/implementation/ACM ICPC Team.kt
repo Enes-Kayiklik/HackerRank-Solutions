@@ -7,10 +7,11 @@ fun main() {
     val sizeOne = scanner.nextInt()
     val sizeTwo = scanner.nextInt()
     val array = arrayListOf<String>()
+
     repeat(sizeOne) {
         array.add(scanner.next())
     }
-    
+
     var count = 0
     var biggest = 0
     for (i in array.indices) {
