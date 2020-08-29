@@ -56,22 +56,17 @@
 |  Implementation  |Fair Rations |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/implementation/Fair%20Rations.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/fair-rations/problem)|
 |  Implementation  |ACM ICPC Team |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/implementation/ACM%20ICPC%20Team.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/acm-icpc-team/problem)|
 |  Implementation  |Taum and B'day |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/implementation/Taum%20and%20B'day.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/taum-and-bday/problem)|
-
 |  Strings  |Pangrams |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/strings/Pangrams.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/pangrams/problem)|
 |  Strings  |Mars Exploration |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/strings/MarsExploration.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/mars-exploration/problem)|
 |  Strings  |Strong Password |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/strings/StrongPassword.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/strong-password/problem)|
 |  Strings  |The Love-Letter Mystery |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/strings/TheLove-LetterMystery.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem)|
 |  Strings  |Funny String |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/strings/Funny%20String.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/funny-string/problem)|
-
 |  Sorting  |Find the Median |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/sorting/FindTheMedian.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/find-the-median/problem)|
 |  Sorting  |Closest Number |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/sorting/ClosestNumbers.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/closest-numbers/problem)|
-
 |  Search  |Missing Numbers |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/search/MissingNumbers.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/missing-numbers/problem)|
 |  Search  |Sherlock and Array |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/search/SherlockandArray.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/sherlock-and-array/problem)|
 |  Search  |Ice Cream Parlor |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/search/IceCreamParlor.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/icecream-parlor/problem)|
-
 |  Bit Manipulation  |Flipping Bits |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/bitmanipulation/FlippingBits.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/flipping-bits/problem)|
-
 |  Greedy  |Permuting Two Arrays |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/greedy/PermutingTwoArrays.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/two-arrays/problem)|
 |  Greedy  |Jim and the Orders |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/greedy/JimandtheOrders.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/jim-and-the-orders/problem)|
 |  Greedy  |Minimum Absolute Difference in an Array |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/greedy/MinimumAbsoluteDifferenceinanArray.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)|
