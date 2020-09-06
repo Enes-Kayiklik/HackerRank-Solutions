@@ -84,3 +84,4 @@
 |  Greedy  |Marc's Cakewalk |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/greedy/Marc'sCakewalk.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/marcs-cakewalk/problem)|
 |  Greedy  |Maximum Perimeter Triangle |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/greedy/MaximumPerimeterTriangle.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/maximum-perimeter-triangle/problem)|
 |  Greedy  |Luck Balance|[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/greedy/Luck%20Balance.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/luck-balance/problem)|
+|  Greedy  |Priyanka and Toys|[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/greedy/Priyanka%20and%20Toys.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/priyanka-and-toys/problem)|
