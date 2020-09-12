@@ -92,3 +92,4 @@
 |  Greedy  |Luck Balance|[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/greedy/Luck%20Balance.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/luck-balance/problem)|
 |  Greedy  |Priyanka and Toys|[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/greedy/Priyanka%20and%20Toys.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/priyanka-and-toys/problem)|
 |  Greedy  |Sherlock and The Beast|[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/greedy/Sherlock%20and%20The%20Beast.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem)|
+|  Greedy  |Grid Challenge|[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/problemsolving/greedy/Grid%20Challenge.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/grid-challenge/problem)|
