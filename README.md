@@ -33,6 +33,7 @@
 |  Fundamentals  |Connecting Towns |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/mathematics/fundamentals/ConnectingTowns.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/connecting-towns/problem)|
 |  Fundamentals  |Most Distant |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/mathematics/fundamentals/MostDistant.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/most-distant/problem)|
 |  Fundamentals  |Filling Jars |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/mathematics/fundamentals/FillingJars.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/filling-jars/problem)|
+|  Fundamentals  |Cutting Paper Squares |[Solution.kt](https://github.com/Enes-Kayiklik/HackerRank-Solutions/blob/master/src/mathematics/fundamentals/Cutting%20Paper%20Squares.kt)|[HackerRank Link](https://www.hackerrank.com/challenges/p1-paper-cutting/problem)|
 
 ## Problem Solving
 | Subdomain | Challange Name | Solution | HackerRank Link |
